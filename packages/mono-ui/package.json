@@ -1,5 +1,6 @@
 {
   "name": "@monorn/mono-ui",
   "main": "index.ts",
-  "version": "1.1.0"
+  "version": "1.1.0",
+  "gitHead": "1d7f3fb2fa8670b692bdc362dc03352ad41b8da9"
 }
